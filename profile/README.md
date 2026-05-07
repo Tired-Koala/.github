@@ -18,11 +18,17 @@ AI-powered daily tools for humans with better things to do.
 
 ---
 
-## What we build
+## Who we are
 
-Each app we ship solves exactly one daily problem. No feature bloat. No learning curve. Just a sharp tool powered by AI that quietly does its job — every single day.
+A small software studio obsessed with one idea: every daily problem deserves exactly one sharp, focused, AI-powered solution.
 
 A koala sleeps 22 hours a day. Not because it's lazy. Because it found its eucalyptus and optimised everything around it. That's the bar we hold every product to.
+
+---
+
+## What we build
+
+We ship AI-powered apps for daily life. Each one solves a single real problem — nothing more, nothing less. No feature bloat. No learning curve. Just tools that work so well they become invisible.
 
 ---
 
@@ -34,27 +40,16 @@ We're not ready to tell you what it is. But here's a hint: you'll use it every s
 
 ---
 
-## Built with
+## Follow along
 
-[![Astro](https://img.shields.io/badge/Astro-002d20?style=flat-square&logo=astro&logoColor=00966c)](https://astro.build)
-[![TypeScript](https://img.shields.io/badge/TypeScript-002d20?style=flat-square&logo=typescript&logoColor=00966c)](https://typescriptlang.org)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-002d20?style=flat-square&logo=tailwindcss&logoColor=00966c)](https://tailwindcss.com)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-002d20?style=flat-square&logo=cloudflare&logoColor=00966c)](https://cloudflare.com)
+We build in public — sharing progress, decisions, and the occasional mistake.
 
----
-
-## Building in public
-
-We share what we're working on, what we're learning, and what's driving us crazy about the current state of software.
-
-Follow along on [X](https://twitter.com/tiredkoalaco) · [Instagram](https://instagram.com/tiredkoalaco) · [Blog](https://blog.tiredkoala.com)
+[tiredkoala.com](https://tiredkoala.com) · [Blog](https://blog.tiredkoala.com) · [X](https://twitter.com/tiredkoalaco) · [Instagram](https://instagram.com/tiredkoalaco) · [LinkedIn](https://linkedin.com/company/tiredkoala)
 
 ---
 
 <div align="center">
 
 *Small team. Loud opinions. Ships things.*
-
-[tiredkoala.com](https://tiredkoala.com)
 
 </div>
