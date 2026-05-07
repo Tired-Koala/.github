@@ -1,55 +1,39 @@
 <div align="center">
 
-<img src="https://tiredkoala.com/icon.png" alt="Tired Koala" width="80" />
+<img src="https://tiredkoala.com/icon.png" alt="Tired Koala" width="72" />
+
+<br/>
 
 # Tired Koala
 
-**We got tired of bad apps. So we built better ones.**
+### We got tired of bad apps. So we built better ones.
 
-AI-powered daily tools for humans with better things to do.
+<br/>
 
-[![Website](https://img.shields.io/badge/tiredkoala.com-002d20?style=flat-square&logo=safari&logoColor=00966c)](https://tiredkoala.com)
-[![Blog](https://img.shields.io/badge/blog.tiredkoala.com-002d20?style=flat-square&logo=medium&logoColor=00966c)](https://blog.tiredkoala.com)
-[![X](https://img.shields.io/badge/@tiredkoalaco-002d20?style=flat-square&logo=x&logoColor=00966c)](https://twitter.com/tiredkoalaco)
-[![Instagram](https://img.shields.io/badge/@tiredkoalaco-002d20?style=flat-square&logo=instagram&logoColor=00966c)](https://instagram.com/tiredkoalaco)
-[![LinkedIn](https://img.shields.io/badge/Tired_Koala-002d20?style=flat-square&logo=linkedin&logoColor=00966c)](https://linkedin.com/company/tiredkoala)
+```
+One studio  ·  One problem per app  ·  Powered by AI  ·  Built for daily life
+```
 
 </div>
 
----
-
-## Who we are
-
-A small software studio obsessed with one idea: every daily problem deserves exactly one sharp, focused, AI-powered solution.
-
-A koala sleeps 22 hours a day. Not because it's lazy. Because it found its eucalyptus and optimised everything around it. That's the bar we hold every product to.
+<br/>
 
 ---
 
-## What we build
+We believe most software asks too much and delivers too little.
 
-We ship AI-powered apps for daily life. Each one solves a single real problem — nothing more, nothing less. No feature bloat. No learning curve. Just tools that work so well they become invisible.
+Every app we ship is obsessively focused on a single daily problem — no feature bloat, no onboarding marathons, no AI slapped on as an afterthought. Intelligence is baked into the architecture from day one.
 
----
-
-## What's brewing
-
-**Koala 001** is almost here.
-
-We're not ready to tell you what it is. But here's a hint: you'll use it every single morning, and you'll wonder how you lived without it.
-
----
-
-## Follow along
-
-We build in public — sharing progress, decisions, and the occasional mistake.
-
-[tiredkoala.com](https://tiredkoala.com) · [Blog](https://blog.tiredkoala.com) · [X](https://twitter.com/tiredkoalaco) · [Instagram](https://instagram.com/tiredkoalaco) · [LinkedIn](https://linkedin.com/company/tiredkoala)
+A koala sleeps 22 hours a day. Not because it's lazy — because it found its eucalyptus and optimised everything around it. That's the standard we hold every product to.
 
 ---
 
 <div align="center">
 
-*Small team. Loud opinions. Ships things.*
+**One problem. Done right. Repeat.**
+
+<br/>
+
+[tiredkoala.com](https://tiredkoala.com) · [blog.tiredkoala.com](https://blog.tiredkoala.com)
 
 </div>
